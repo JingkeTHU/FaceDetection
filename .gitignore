@@ -1,0 +1,5 @@
+/test/*
+/Model_saved/*
+/TFRecord/*
+checkpoint.*
+/logs/*

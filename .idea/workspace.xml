@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9162333-4591-4604-a510-4fa5b42e4d92" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/V1.0/CNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/V1.0/CNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/CNN.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +23,8 @@
       <file leaf-file-name="CNN.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="297" column="40" selection-start-line="297" selection-start-column="40" selection-end-line="297" selection-end-column="40" />
+            <state relative-caret-position="193">
+              <caret line="172" column="38" selection-start-line="172" selection-start-column="38" selection-end-line="172" selection-end-column="38" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -45,8 +44,8 @@
       <file leaf-file-name="nn_ops.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30498">
-              <caret line="1821" column="77" selection-start-line="1821" selection-start-column="61" selection-end-line="1821" selection-end-column="77" />
+            <state relative-caret-position="-55">
+              <caret line="2296" column="53" selection-start-line="2296" selection-start-column="53" selection-end-line="2296" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -97,7 +96,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="175" />
     <option name="y" value="82" />
     <option name="width" value="1678" />
@@ -115,11 +114,6 @@
             <path>
               <item name="Facedetection" type="b2602c69:ProjectViewProjectNode" />
               <item name="Facedetection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Facedetection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Facedetection" type="462c0819:PsiDirectoryNode" />
-              <item name="V1.0" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,7 +270,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -606,13 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30498">
-          <caret line="1821" column="77" selection-start-line="1821" selection-start-column="61" selection-end-line="1821" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1246849688/numpy/random/mtrand.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34272">
@@ -627,10 +615,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="2296" column="53" selection-start-line="2296" selection-start-column="53" selection-end-line="2296" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="297" column="40" selection-start-line="297" selection-start-column="40" selection-end-line="297" selection-end-column="40" />
+        <state relative-caret-position="193">
+          <caret line="172" column="38" selection-start-line="172" selection-start-column="38" selection-end-line="172" selection-end-column="38" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>

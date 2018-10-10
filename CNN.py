@@ -4,7 +4,6 @@ import glob
 import tensorflow as tf
 import time
 import numpy as np
-import input_data
 
 
 def classifying_filepath():
@@ -276,6 +275,8 @@ sess.run([tf.global_variables_initializer(), tf.local_variables_initializer()])
 writer = tf.summary.FileWriter(".//test//", sess.graph)
 # forbid the alteration to the graph
 sess.graph.finalize()
+# The training time should be set less
+# Add saver object to save the parameters trained to save the model
 for i in range(50000000):
     time_start = time.time()
     print(i)
